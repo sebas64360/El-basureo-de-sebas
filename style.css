@@ -1,0 +1,17 @@
+body{
+    background: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#contenedor{
+    /*width:70;*/
+    width: 1100px;
+    margin: 0px auto;
+}
+
+
+.article{
+
+
+}
